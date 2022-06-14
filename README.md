@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VitoriaSanches
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning programming
-- 📫 How to reach me: vitoriaferreirasanches@gmail.com
+👋 Olá meu nome é Vitória Ferreira Sanches
+👀 Estou interessada em aprender 
+🌱 Eu estou aprendendo HTML, CSS, Python, SQL
+📫 Meu contato é: vitoriaferreirasanches@gmail.com 
 
 <!---
 VitoriaSanches/VitoriaSanches is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
