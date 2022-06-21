@@ -1,5 +1,4 @@
 - 👋 Olá meu nome é Vitória Ferreira Sanches
-- 👀 Estou interessada em aprender 
 - 🌱 Eu estou aprendendo HTML, CSS, Python, SQL
 - 📫 Meu contato é: vitoriaferreirasanches@gmail.com 
 
