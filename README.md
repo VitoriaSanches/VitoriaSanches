@@ -1,5 +1,5 @@
 - 👋 Olá meu nome é Vitória Ferreira Sanches
-- 🌱 Eu estou aprendendo HTML, CSS, Python, SQL e JS
+- 🌱 Eu estudo HTML, CSS, Python, SQL, JS e Django
 - 📫 Meu contato é: vitoriaferreirasanches@gmail.com 
 
 <!---
